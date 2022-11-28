@@ -1,0 +1,20 @@
+.ResultsTable table {
+  background-color: gray;
+  border-radius: 10px;
+  width: 30vw;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.ResultsTable table tr {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border-bottom: 1px solid;
+  border-top: 1px solid;
+}
+
+/* .ResultsTable table tr th {
+  border: 2px solid blue;
+} */

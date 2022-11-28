@@ -1,0 +1,6 @@
+.TextBox textarea {
+  border-radius: 20px;
+  width: 50vw;
+  height: 50vh;
+  padding: 20px;
+}

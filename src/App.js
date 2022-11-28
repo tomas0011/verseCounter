@@ -1,11 +1,14 @@
-import './App.css';
-import Main from './components/Main/Main';
-// import Navbar from './components/Navbar/Navbar';
+import style from './App.module.css';
+import {
+  Main,
+  Footer
+} from './components';
 
 function App() {
   return (
-    <div className="App">
+    <div className={style.App}>
       <Main/>
+      <Footer/>
     </div>
   );
 }
