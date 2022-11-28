@@ -1,8 +1,8 @@
 {
-  "name": "21-tomas",
+  "name": "verse-counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://tomas0011.github.io/21-tomas",
+  "homepage": "http://tomas0011.github.io/verse-counter",
   "dependencies": {
     "@sweetalert/with-react": "^0.1.1",
     "@testing-library/jest-dom": "^5.16.5",
