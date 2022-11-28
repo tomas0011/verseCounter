@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/verse-counter/static/css/main.40772dfa.css",
-    "main.js": "/verse-counter/static/js/main.1e7f69e6.js",
+    "main.js": "/verse-counter/static/js/main.e5d871fb.js",
     "index.html": "/verse-counter/index.html",
     "main.40772dfa.css.map": "/verse-counter/static/css/main.40772dfa.css.map",
-    "main.1e7f69e6.js.map": "/verse-counter/static/js/main.1e7f69e6.js.map"
+    "main.e5d871fb.js.map": "/verse-counter/static/js/main.e5d871fb.js.map"
   },
   "entrypoints": [
     "static/css/main.40772dfa.css",
-    "static/js/main.1e7f69e6.js"
+    "static/js/main.e5d871fb.js"
   ]
 }
