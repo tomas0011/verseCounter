@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/verse-counter/static/css/main.1f8a0265.css",
-    "main.js": "/verse-counter/static/js/main.53ddd431.js",
-    "index.html": "/verse-counter/index.html",
-    "main.1f8a0265.css.map": "/verse-counter/static/css/main.1f8a0265.css.map",
-    "main.53ddd431.js.map": "/verse-counter/static/js/main.53ddd431.js.map"
+    "main.css": "/verseCounter/static/css/main.1f8a0265.css",
+    "main.js": "/verseCounter/static/js/main.53ddd431.js",
+    "index.html": "/verseCounter/index.html",
+    "main.1f8a0265.css.map": "/verseCounter/static/css/main.1f8a0265.css.map",
+    "main.53ddd431.js.map": "/verseCounter/static/js/main.53ddd431.js.map"
   },
   "entrypoints": [
     "static/css/main.1f8a0265.css",
